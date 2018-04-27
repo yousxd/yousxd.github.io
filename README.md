@@ -1,5 +1,7 @@
 # yousxd.github.io
 <h1>Practicas</h1>
+<h5>pagina en equipo</h5>
+<a href="https://lolyous.github.io/">pagina</a><br><hr>
 <a href="https://yousxd.github.io/Prabootstrap/primeralibreria.html">Grids</a><br>
 <a href="https://yousxd.github.io/Prabootstrap/tabla.html">Tabla</a><br>
 <a href="https://yousxd.github.io/Prabootstrap/practica3.html">Formulario y botones</a><br>
